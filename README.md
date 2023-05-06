@@ -16,5 +16,5 @@ Pandas <br>
 Matplotlib <br>
 scikit-learn <br>
 
-# DATASET #
+# Dataset #
 https://www.kaggle.com/competitions/digit-recognizer/data
